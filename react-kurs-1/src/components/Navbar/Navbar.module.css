@@ -1,0 +1,20 @@
+.nav {
+    gird-area: n;
+    padding: 20px;
+
+}
+
+.item {
+    color: deeppink;
+    margin-right: 20px;
+}
+
+.item a {
+    color: blue;
+    text-decoration: none;
+
+}
+
+.item a.activeLink {
+    color: gold
+}
